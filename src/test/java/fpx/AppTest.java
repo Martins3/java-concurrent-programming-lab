@@ -17,9 +17,8 @@ public class AppTest {
     assertTrue(true);
   }
 
-  public static void main(String[] args) throws InterruptedException {
+  // public static void main(String[] args) throws InterruptedException {
+  // //   final TicketingDS tds = new TicketingDS(routenum, coachnum, seatnum, stationnum, threadnum);
 
-    // final TicketingDS tds = new TicketingDS(routenum, coachnum, seatnum, stationnum, threadnum);
-
-  }
+  // }
 }

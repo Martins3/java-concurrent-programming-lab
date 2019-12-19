@@ -8,11 +8,6 @@ class Ticket{
 	int seat;
 	int departure;
 	int arrival;
-
-  public Ticket(){
-    // TODO
-    System.out.println("TODO");
-  }
 }
 
 
